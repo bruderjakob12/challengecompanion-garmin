@@ -1,0 +1,18 @@
+<settings>
+
+    <setting propertyKey="@Properties.u" title="@Strings.u">
+         <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.t" title="@Strings.t">
+         <settingConfig type="alphaNumeric" />
+    </setting>
+
+    <setting propertyKey="@Properties.c" title="@Strings.c">
+         <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+
+    <setting propertyKey="@Properties.e" title="@Strings.e">
+         <settingConfig type="alphaNumeric" required="true" />
+    </setting>
+</settings>

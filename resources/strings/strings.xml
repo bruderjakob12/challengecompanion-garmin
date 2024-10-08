@@ -1,0 +1,8 @@
+<strings>
+    <string id="AppName">ChallengeCompanionWidget</string>
+    <string id="AppVersionTitle">Alpha</string>
+    <string id="u">Username or Nickname</string>
+    <string id="t">Team</string>
+    <string id="c">Challenge-ID</string>
+    <string id="e">Endpoint</string>
+</strings>
